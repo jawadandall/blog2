@@ -1,0 +1,77 @@
+<H1>List of all blog posts here</H1>
+<div class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <p>
+      <ul class="nav navbar-nav">
+        <li><%= link_to 'Blog', controller: 'articles' %></li>  <!--Rails helper function link_to links the text to the stated controller prefix.
+        Controller prefixes may be found by running $bin/rails routes-->
+        <li><%= link_to 'Store', controller: 'store'%></li>
+        <!--<li><a href="#">Store</a></li>-->
+        <li><a href="#">Media</a></li>
+        <li><a href="#">About</a></li>
+
+      </ul>
+    </p>
+  </div>
+  <div class="col-sm -3">
+    <div class="input-group">
+          <input type="text" class="form-control" placeholder="Search Blog..">
+          <span class="input-group-btn">
+            <button class="btn btn-default" type="button">
+              <span class="glyphicon glyphicon-search"></span>
+            </button>
+          </span>
+        </div>
+      </div>
+</div>
+<div class="col-sm-9">
+      <h4><small>RECENT POSTS</small></h4>
+      <% @articles.each do |article| %>
+        <hr>
+        <a href="/articles/:id(.:format)">
+          <div class="row" >
+            <%= link_to'', article_path(article) %>
+            <div class="col-sm-9">
+              <h2><%= article.title %></h2>
+              <br>
+              <p><%= article.text %></p>
+              <br>
+            </div>
+            <div class="col-sm-3">
+              <p class="text-right">
+                <%= link_to 'Show', article_path(article) %>
+                <br>
+                <%= link_to 'Edit', edit_article_path(article) %>
+                <br>
+                <%= link_to 'Destroy', article_path(article),
+                      method: :delete,
+                      data: { confirm: 'Are you sure You want to delete this post?' } %>
+              </p>
+            </div>
+          </div>
+    
+      <% end %>
+</div>
+
+
+<!--<table>
+  <tr>
+    <th>Title</th>
+    <th>Text</th>
+    <th></th>
+  </tr>
+ 
+  <% @articles.each do |article| %>
+    <tr>
+      <td><%= article.title %></td>
+      <td><%= article.text %></td>
+      <td><%= link_to 'Show', article_path(article) %></td>
+      <td><%= link_to 'Edit', edit_article_path(article) %></td>
+      <td><%= link_to 'Destroy', article_path(article),
+              method: :delete,
+              data: { confirm: 'Are you sure?' } %></td>
+    </tr>
+  <% end %>
+</table>-->
+<br>
+<p><%= link_to 'Create new post', new_article_path %></p>

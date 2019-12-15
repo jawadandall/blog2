@@ -1,0 +1,22 @@
+<%= form_with(model: [ @article, @article.comments.build ], local: true) do |form| %>
+  <!--<p>
+    <%= form.label :commenter %><br>
+    <%= form.text_field :commenter %>
+  </p>
+  <p>
+    <%= form.label :body %><br>
+    <%= form.text_area :body %>
+  </p>
+  <p>
+    <%= form.submit %>
+  </p>-->
+
+<h4>Leave a Comment:</h4>
+      <form role="form">
+        <div class="form-group">
+          <textarea class="form-control" rows="3" required></textarea>
+        </div>
+        <button type="submit"><%= form.submit %></button>
+      </form>
+      <br><br>
+<% end %>
