@@ -1,0 +1,619 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onmous",
+				"onmouseover\tAttr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ca",
+				"carousel-id"
+			],
+			[
+				"data",
+				"data_headers"
+			],
+			[
+				"L",
+				"lineDrawing"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"slide",
+				"slideanim"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"co",
+				"col-sm-4"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"my",
+				"myNavbar"
+			],
+			[
+				"na",
+				"navbar-left"
+			],
+			[
+				"nav",
+				"navbar-inverse"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"bg",
+				"bg-1"
+			],
+			[
+				"b",
+				"bg-3"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"Backgr",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"coi",
+				"container-fluid"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"pl",
+				"playlist"
+			],
+			[
+				"S",
+				"SongType"
+			],
+			[
+				"pr",
+				"prevsong"
+			],
+			[
+				"n",
+				"nextsong"
+			],
+			[
+				"song",
+				"songType"
+			],
+			[
+				"son",
+				"SongType"
+			],
+			[
+				"l",
+				"listAppend"
+			],
+			[
+				"P",
+				"PlaylistType"
+			],
+			[
+				"dou",
+				"DoublyListType"
+			],
+			[
+				"D",
+				"DoublyListType"
+			],
+			[
+				"songsta",
+				"songstack"
+			],
+			[
+				"pre",
+				"predsong"
+			],
+			[
+				"f",
+				"favoritesStack"
+			],
+			[
+				"so",
+				"songartist"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"print",
+				"print_list"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"c",
+				"currnode"
+			],
+			[
+				"t",
+				"tail"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"ne",
+				"nextnode"
+			],
+			[
+				"hea",
+				"headptr"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"int",
+				"intNode"
+			],
+			[
+				"A",
+				"Append"
+			],
+			[
+				"In",
+				"IntNode"
+			],
+			[
+				"I",
+				"IntNode"
+			],
+			[
+				"prit",
+				"print_statement"
+			],
+			[
+				"pri",
+				"print_statement"
+			],
+			[
+				"out",
+				"outfile"
+			],
+			[
+				"in",
+				"infile"
+			],
+			[
+				"of",
+				"ofstream"
+			],
+			[
+				"if",
+				"ifstream"
+			],
+			[
+				"gen",
+				"genre"
+			],
+			[
+				"artist",
+				"artistname"
+			],
+			[
+				"se",
+				"set_songinfo"
+			],
+			[
+				"s",
+				"set_lastname"
+			],
+			[
+				"cla",
+				"classSongs"
+			],
+			[
+				"student",
+				"student_name"
+			],
+			[
+				"g",
+				"get_artist"
+			],
+			[
+				"ge",
+				"get_student_name"
+			],
+			[
+				"set_",
+				"set_artist"
+			],
+			[
+				"set",
+				"set_song_title"
+			],
+			[
+				"studen",
+				"student_name"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"sel",
+				"_self"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "linte",
+		"selected_items":
+		[
+			[
+				"linte",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lintin",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"linting",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 642.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Graphics/fingersCrossed",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Boilerplate.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Next Website/HomePage.html",
+		"/C/Users/Jawad/Desktop/Applied Data Science/Project 1/project1.py",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Me/MyBlog.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Me/Me.html",
+		"/C/Users/Jawad/Desktop/Applied Data Science/ICE 9.1.py",
+		"/C/Users/Jawad/Desktop/ICE 8.2.py",
+		"/C/Users/Jawad/Desktop/Applied Data Science/Project 1/langevindata.txt/LANGEVIN_DATA1.txt",
+		"/C/Users/Jawad/Desktop/Applied Data Science/Project 1/find_stats.py",
+		"/C/Users/Jawad/Desktop/Applied Data Science/Project 1/data_vis.py",
+		"/C/Users/Jawad/Desktop/Applied Data Science/Project 1/langevindata.txt/LANGEVIN_DATA.txt",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/myfirst.js",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Graphics/Maps",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Assignment 2.1/Assignment 2.1/Assignment 2.1 .cpp",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Graphics/FirstSVG.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Me/MyStore.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Experimental/Experimental.html",
+		"/C/Users/Jawad/Desktop/Human Comp Interaction/Web Portfolio/theme.css",
+		"/C/Users/Jawad/Desktop/Human Comp Interaction/Web Portfolio/index.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Me/CompanyPage.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Experimental/style.css",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Me.html",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/untitled.cpp",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Basic Page/BasicHome.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Basic Page/BasicStyle.css",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Basic Page/Basic Home",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Favorite Song Stack Lab/stack.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Favorite Song Stack Lab/Song.h",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Favorite Song Stack Lab/doublylist.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Lab 4 (linked Lists)/Doubly linked list.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/HU Air/Node.h",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/HU Air/DoublyList.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Homework 1/Songs.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Lab 4 (linked Lists)/DoublyList.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Lab 4 (linked Lists)/Main.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Lab 4 (linked Lists)/Lab assignment .cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Node.h",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Songs.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Songs.h",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Lab 4 (linked Lists)/Hu Air HW.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/class assignment.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Lab 4 (linked Lists)/Song and Playlist.cpp",
+		"/C/Users/Jawad/Desktop/Comp Org 1/project 2a.S",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/playlist.txt",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Homework 1/Main.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Homework 1/Homework.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/Homework.cpp",
+		"/C/Users/Jawad/Desktop/Comp Sci 2/CPP Projects/CSCI 2 - Lab 02.cpp",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/Experimental/Experimental_2.html",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/CSS/style.css",
+		"/C/Users/Jawad/Desktop/Web Developer Stuff/HTML/Experimental.html",
+		"/C/Users/Jawad/Desktop/HTML/Experimental_2.html",
+		"/C/Users/Jawad/Desktop/HTML/Boilerplate.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "routes.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

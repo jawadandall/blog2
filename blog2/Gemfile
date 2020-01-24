@@ -27,7 +27,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use ActiveStorage variant
-gem 'mini_magick', '~> 4.8'
+gem 'paperclip'
+#gem 'mini_magick', '~> 4.8'
 
 gem "nokogiri", ">= 1.10.4"
 
@@ -40,7 +41,7 @@ gem "nokogiri", ">= 1.10.4"
 gem 'bootsnap', ' 1.1.0', require: false
 
 #Ckeditor provides WYSIWYG editor functionality
-gem 'ckeditor'
+gem 'ckeditor', github: 'galetahub/ckeditor'
 
 
 group :development, :test do

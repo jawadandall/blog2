@@ -1,6 +1,6 @@
 class ArticlesController < ApplicationController
 	def index
-		@articles = Article.all
+		@articles = Article.all.order(created_at: :desc)
 		#Instance variable @articles is intialized to all Article database entries
 		#Instance variable @articles is passed to correspondig view
 	end

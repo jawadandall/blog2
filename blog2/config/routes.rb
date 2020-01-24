@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  mount Ckeditor::Engine => '/ckeditor'
   get 'store/index'
 	#Routes map to controller actions and may pass parameters. Run $bin/rails routes to see list of available routes
   get 'welcome/index'
